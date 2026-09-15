@@ -6,7 +6,7 @@ import tracemalloc
 
 
 # ============================================================
-# Data Loading and Preprocessing - Generated with AI assistance
+# Data Loading and Preprocessing 
 # ============================================================
 
 def load_dataset(file_path):
@@ -46,7 +46,7 @@ def impute_missing_values(data, strategy='mean', columns=None):
 
 
 # ============================================================
-# Sorting Algorithms - Generated with AI assistance
+# Sorting Algorithms 
 # ============================================================
 
 def bubble_sort(arr):
@@ -88,7 +88,7 @@ def selection_sort(arr):
 
 
 # ============================================================
-# Distance Calculation - Generated with AI assistance
+# Distance Calculation 
 # ============================================================
 
 def calculate_distance(point1, point2, metric='euclidean'):
@@ -107,7 +107,7 @@ def calculate_distance(point1, point2, metric='euclidean'):
 
 
 # ============================================================
-# k-NN Core Functions - Generated with AI assistance
+# k-NN Core Functions 
 # ============================================================
 
 def find_k_nearest_neighbors_distances(train_features, test_feature, k, distance_metric='euclidean', sorting_algo='bubble'):
@@ -291,7 +291,7 @@ def measure_performance(knn, X_test, y_test, runs=10):
 
 
 # ============================================================
-# Main Experiment - Generated with AI assistance
+# Main Experiment 
 # ============================================================
 
 def main():
